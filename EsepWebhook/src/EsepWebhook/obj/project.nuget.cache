@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "7NKjbvR/ECPqnXcXNTYh0meK1u7Xov3FN8SLPgUOMh7e5uxguG5j7Lf/iLyO/w0JV8sc/rc67U7ePAobtOYQnQ==",
+  "dgSpecHash": "D3O9uA/WfFOpGrhSWb3OlBuaj29gRnrPJPZHR3YXcV4yOG4xlhrewhdTs60o01SwrO2x4I3yWgEzH28AxPKr5Q==",
   "success": true,
   "projectFilePath": "/Users/shiva/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/shiva/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/shiva/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
     "/Users/shiva/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/shiva/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/shiva/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
     "/Users/shiva/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "/Users/shiva/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512",
-    "/Users/shiva/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+    "/Users/shiva/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/shiva/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }
